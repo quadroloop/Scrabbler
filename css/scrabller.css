@@ -1,0 +1,56 @@
+/*scrabller.css*/
+
+.d1 {
+  -webkit-animation-delay: 100ms;
+  animation-delay: 100ms;
+}
+
+.d2 {
+  -webkit-animation-delay: 200ms;
+  animation-delay: 200ms;
+}
+
+.d3 {
+  -webkit-animation-delay: 300ms;
+  animation-delay: 300ms;
+}
+
+.d4 {
+  -webkit-animation-delay: 400ms;
+  animation-delay: 400ms;
+}
+
+.d5 {
+  -webkit-animation-delay: 500ms;
+  animation-delay: 500ms;
+}
+
+.d6 {
+  -webkit-animation-delay: 600ms;
+  animation-delay: 600ms;
+}
+
+.d7 {
+  -webkit-animation-delay: 700ms;
+  animation-delay: 700ms;
+}
+
+.d8 {
+  -webkit-animation-delay: 800ms;
+  animation-delay: 800ms;
+}
+
+.d9 {
+  -webkit-animation-delay: 900ms;
+  animation-delay: 900ms;
+}
+
+.d10 {
+  -webkit-animation-delay: 1000ms;
+  animation-delay: 1000ms;
+}
+
+.d11 {
+  -webkit-animation-delay: 1100ms;
+  animation-delay: 1100ms;
+}
